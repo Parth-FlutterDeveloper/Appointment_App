@@ -1,9 +1,5 @@
 # Appointment App
 
-A new Flutter project.
-
-## Getting Started
-
 
 This UI design is awesome,
 You must see this PDF one time.
